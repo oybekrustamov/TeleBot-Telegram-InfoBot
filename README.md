@@ -41,5 +41,4 @@ Example:
 </a>
 
 <hr>
-Donate for my study: Yandex Money: <b>4100115547853675</b>
-Thanku!
+
